@@ -1,5 +1,5 @@
 # Framework
-Welcome! This is the official implementation of our paper "From Brain-Heart-Gut to Brain: Molecular Insights and Improved Brain-based Diagnosis for Early-stage Alzheimer’s Disease"
+Welcome! This is the official implementation of our paper "The Brain-Heart-Gut Axis in Whole-body PET: Guiding Early Alzheimer’s Diagnosis with Multi-organ Interactions"
 
 ## 1. Introduction
 In this work, we exploit brain-heart-gut interactions using whole-body PET and we propose a brain-heart-gut guided framework for early AD diagnosis using only brain PET images.
